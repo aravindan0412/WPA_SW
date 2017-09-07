@@ -12,7 +12,7 @@ var filesToCache=[
     'https://aravindan0412.github.io/WPA_SW/images/rabbit.jpg',
     'https://aravindan0412.github.io/WPA_SW/manifest.json',
     'https://aravindan0412.github.io/WPA_SW/images/hackIcon.png',
-    '/'
+    'https://aravindan0412.github.io/WPA_SW'
 ];
 
 
