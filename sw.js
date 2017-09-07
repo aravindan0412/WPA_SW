@@ -9,7 +9,7 @@ var filesToCache=[
     '/images/flow2.jpg',
     '/images/flow3.jpg',
     '/images/flow4.jpg',
-    '/images/rabbit.jpg',
+    'https://aravindan0412.github.io/WPA_SW/images/rabbit.jpg',
     '/manifest.json',
     '/images/hackIcon.png',
     '/'
