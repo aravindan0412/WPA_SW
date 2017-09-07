@@ -3,7 +3,7 @@
 var cacheName = "simpleStartpageCacheV3"; //we define an cacheName to identify the cache and the version
 //here we add all the files we want later to cache
 var filesToCache=[
-    'js/app.js',
+    'https://aravindan0412.github.io/WPA_SW/js/app.js',
     '/images/download.jpg',
     '/images/flow1.jpg',
     '/images/flow2.jpg',
