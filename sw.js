@@ -4,14 +4,14 @@ var cacheName = "simpleStartpageCacheV3"; //we define an cacheName to identify t
 //here we add all the files we want later to cache
 var filesToCache=[
     'https://aravindan0412.github.io/WPA_SW/js/app.js',
-    '/images/download.jpg',
-    '/images/flow1.jpg',
-    '/images/flow2.jpg',
-    '/images/flow3.jpg',
-    '/images/flow4.jpg',
+    'https://aravindan0412.github.io/WPA_SW/images/download.jpg',
+    'https://aravindan0412.github.io/WPA_SW/images/flow1.jpg',
+    'https://aravindan0412.github.io/WPA_SW/images/flow2.jpg',
+    'https://aravindan0412.github.io/WPA_SW/images/flow3.jpg',
+    'https://aravindan0412.github.io/WPA_SW/images/flow4.jpg',
     'https://aravindan0412.github.io/WPA_SW/images/rabbit.jpg',
-    '/manifest.json',
-    '/images/hackIcon.png',
+    'https://aravindan0412.github.io/WPA_SW/manifest.json',
+    'https://aravindan0412.github.io/WPA_SW/images/hackIcon.png',
     '/'
 ];
 
